@@ -1,7 +1,7 @@
 # UTS-MachineLearning
 # Klasifikasi Oranges vs Grapefruit
 
-Proyek ini dibuat untuk memenuhi tugas Ujian Tengah Semester dengan tujuan membangun model klasifikasi machine learning untuk membedakan antara buah jeruk (orange) dan anggur (grapefruit) menggunakan Python.
+Proyek ini dibuat untuk memenuhi tugas Ujian Tengah Semester mata kuliah Machine Learning, dengan tujuan membangun model klasifikasi machine learning untuk membedakan antara buah jeruk (orange) dan anggur (grapefruit) menggunakan Python.
 
 ## Tahapan Pembuatan Model
 1. **Load Dataset**: Membaca dataset `citrus.csv` menggunakan pandas.
